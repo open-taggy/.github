@@ -1,4 +1,4 @@
-# taggy | Open Semantic Tagging
+# 🐓 taggy | Open Semantic Tagging
 
 Tagging content in web-based editorial systems, 
 *i.e. assigning content to a selection of topics* 
@@ -10,11 +10,11 @@ especially when it comes to large amounts of data.
 Proprietary systems are often expensive and questionable in terms of data protection
 
 
-### 🐓 taggy is here to give you an
+### 🎯 taggy is here to give you an
 - open,
 - easy-to-start-with, 
 - easy-to-integrate and 
-- quite powerful tool 
+- quite powerful frontend tool 
 
 to fit your tagging needs.
 
