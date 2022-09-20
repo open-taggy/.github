@@ -1,4 +1,6 @@
-# 🐓 taggy | Open Semantic Tagging
+# taggy | Open Semantic Tagging
+
+<img width="240" alt="mtl-taggy" src="https://www.media-lab.de/files/content/programme/mtl/mtl-projects-taggy.jpg">
 
 Tagging content in web-based editorial systems, 
 *i.e. assigning content to a selection of topics* 
