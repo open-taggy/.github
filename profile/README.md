@@ -16,9 +16,9 @@ Proprietary systems are often expensive and questionable in terms of data protec
 - open
 - easy-to-start-with
 - easy-to-integrate and 
-- quite powerful frontend module 
+- quite powerful 
 
-to fit your tagging needs.
+frontend module to fit your tagging needs.
 
 
 ### ⚡ Powered by
