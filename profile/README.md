@@ -26,7 +26,9 @@ frontend module to fit your tagging needs.
 
 
 ### 🏗️ Current status
-Please visit the [taggy demo repository](https://github.com/open-taggy/demo) and follow the instructions there to get a demo page which showcases the current development status of taggy. 
+Please visit the [taggy demo repository](https://github.com/open-taggy/demo) 
+
+and follow the instructions there to get a demo page which showcases the current development status of taggy. 
 
 
 ### ⚡ Powered by
