@@ -1,9 +1,11 @@
 # taggy | Open Semantic Tagging
 
-<img width="240" alt="mtl-taggy" src="https://www.media-lab.de/files/content/programme/mtl/mtl-projects-taggy.jpg">
+<p align="center">
+  <img width="240" alt="mtl-taggy" src="https://github.com/open-taggy/website/blob/main/static/img/logo.png">
+</p>
 
-Tagging content in web-based editorial systems, 
-*i.e. assigning content to a selection of topics* 
+Tagging content in web-based editorial systems -
+*i.e. assigning content to a selection of topics* -
 - is mostly still done manually
 - therefore tedious and error-prone
 
@@ -19,6 +21,12 @@ Proprietary systems are often expensive and questionable in terms of data protec
 - quite powerful 
 
 frontend module to fit your tagging needs.
+
+<img src="https://github.com/open-taggy/website/blob/main/static/img/taggy_screencast.gif" width="400" />
+
+
+### 🏗️ Current status
+Please visit the [taggy demo repository](https://github.com/open-taggy/demo) and follow the instructions there to get a demo page which showcases the current development status of taggy. 
 
 
 ### ⚡ Powered by
