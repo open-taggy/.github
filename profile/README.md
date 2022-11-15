@@ -5,33 +5,27 @@
 </p>
 
 Tagging content in web-based editorial systems -
-*i.e. assigning content to a selection of topics* -
-- is mostly still done manually
-- therefore tedious and error-prone
+*i.e. assigning content to a selection of topics* - 
 
-especially when it comes to large amounts of data.
+is mostly still done manually and therefore tedious and error-prone. Especially when it comes to large amounts of data.
 
 Proprietary systems are often expensive and questionable in terms of data protection
 
 
-### 🎯 taggy is here to give you an
-- open
-- easy-to-start-with
-- easy-to-integrate and 
-- quite powerful 
-
+## 🎯 taggy is here to give you an
+open, easy-to-start-with, easy-to-integrate and quite powerful 
 frontend module to fit your tagging needs.
 
-<img src="https://github.com/open-taggy/website/blob/main/static/img/taggy_screencast.gif" width="400" />
+## 💡 Example - Website User Form
+<img src="https://open-taggy.github.io/website/img/taggy_screencast_v2_abo.gif" width="600" />
 
-
-### 🏗️ Current status
+## 🏗️ Current status
 Please visit the [taggy demo repository](https://github.com/open-taggy/demo) 
 
 and follow the instructions there to get a demo page which showcases the current development status of taggy. 
 
 
-### ⚡ Powered by
+## ⚡ Powered by
 
 <a href="https://media-tech-lab.com">Media Tech Lab by Media Lab Bayern</a> (<a href="https://github.com/media-tech-lab">@media-tech-lab</a>)
 
