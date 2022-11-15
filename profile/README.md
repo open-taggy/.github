@@ -16,8 +16,16 @@ Proprietary systems are often expensive and questionable in terms of data protec
 open, easy-to-start-with, easy-to-integrate and quite powerful 
 frontend module to fit your tagging needs.
 
-## 💡 Example - Website User Form
+## 💡 Examples
+### Website User Form
+Assign user requests automatically to the right internal tracks
+
 <img src="https://open-taggy.github.io/website/img/taggy_screencast_v2_abo.gif" width="600" />
+
+### Blog Categories
+Let taggy categorize your blogposts
+
+<img src="https://open-taggy.github.io/website/img/taggy_screencast_v2_blog.gif" width="600" />
 
 ## 🏗️ Current status
 Please visit the [taggy demo repository](https://github.com/open-taggy/demo) 
