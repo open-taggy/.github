@@ -12,9 +12,11 @@ is mostly still done manually and therefore tedious and error-prone. Especially 
 Proprietary systems are often expensive and questionable in terms of data protection
 
 
-## 🎯 taggy is here to give you an
-open, easy-to-start-with, easy-to-integrate and quite powerful 
+## 🎯 taggy is here to give you
+an open, easy-to-start-with, easy-to-integrate and quite powerful 
 frontend module to fit your tagging needs.
+
+Just define some trigger words or put in your existing glossar and start to tag your content.
 
 ## 💡 Examples
 ### Website User Form
