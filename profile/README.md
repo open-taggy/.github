@@ -3,31 +3,36 @@
 <p align="center">
   <img width="240" alt="mtl-taggy" src="https://github.com/open-taggy/website/blob/main/static/img/logo.png">
 </p>
+<p align="center">
+taggy is a frontend package to automatically tag (or categorize) textual input on your website.
+</p>
+
+## 🧩 The problem
 
 Tagging content in web-based editorial systems -
 *i.e. assigning content to a selection of topics* - 
-
 is mostly still done manually and therefore tedious and error-prone. Especially when it comes to large amounts of data.
+Proprietary systems are often expensive and questionable in terms of data protection.
 
-Proprietary systems are often expensive and questionable in terms of data protection
+## 🎯 taggy gives you
+- An open, easy-to-start-with, easy-to-integrate and quite powerful frontend module to fit your tagging needs.
 
-
-## 🎯 taggy is here to give you
-an open, easy-to-start-with, easy-to-integrate and quite powerful 
-frontend module to fit your tagging needs.
-
-Just define some trigger words or put in your existing glossar and start to tag your content.
+- Just define some trigger words or put in your existing glossar and start to tag your content. 
 
 ## 💡 Examples
-### Website User Form
-Assign user requests automatically to the right internal tracks
+### 1. Website Forms
+Assign form input by your users automatically to the right internal tracks:
 
 <img src="https://open-taggy.github.io/website/img/taggy_screencast_v2_abo.gif" width="600" />
 
-### Blog Categories
-Let taggy categorize your blogposts
+### 2. Tags for Blogposts
+Let taggy categorize your blogposts:
 
 <img src="https://open-taggy.github.io/website/img/taggy_screencast_v2_blog.gif" width="600" />
+
+## 📘 The Glossar
+This is basically a list of trigger words with top- and sub-tags. taggy categorizes the input based on that.
+See <a href="https://github.com/open-taggy/taggy/blob/main/data/glossar-abo.json">here</a> for an example.
 
 ## 🏗️ Current status
 Please visit the [taggy demo repository](https://github.com/open-taggy/demo) 
