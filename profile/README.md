@@ -20,15 +20,14 @@ Proprietary systems are often expensive and questionable in terms of data protec
 - Just define some trigger words or put in your existing [glossar](#the-glossar) and start to tag your content. 
 
 ## 💡 Examples
-### 1. Website Forms
+### Website Forms
 Assign form input by your users automatically to the right internal tracks:
 
-<img src="https://open-taggy.github.io/website/img/taggy_screencast_v2_abo.gif" width="600" />
+<img src="/screencasts/screencast-shop_en_submit.gif" width="600" />
 
-### 2. Tags for Blogposts
-Let taggy categorize your blogposts:
+Categorize input while typing:
 
-<img src="https://open-taggy.github.io/website/img/taggy_screencast_v2_blog.gif" width="600" />
+<img src="/screencasts/screencast-fan_en_live.gif" width="600" />
 
 ## 📘 Documentation
 
