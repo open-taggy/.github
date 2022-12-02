@@ -19,6 +19,10 @@ Proprietary systems are often expensive and questionable in terms of data protec
 
 - Just define some trigger words or put in your existing [glossar](#the-glossar) and start to tag your content. 
 
+## 💥 Demo
+
+- **[try it out here](https://open-taggy.github.io/demo/)**
+
 ## 💡 Examples
 ### Website Forms
 Assign form input by your users automatically to the right internal tracks:
@@ -32,11 +36,12 @@ Categorize input while typing:
 ## 📘 Documentation
 
 ### The Glossar
-This is a list of trigger words in JSON-fomrat with top- and sub-tags. taggy categorizes the input based on that.
+This is a list of trigger words in JSON-format with top- and sub-tags. taggy categorizes the input based on that.
 See <a href="https://github.com/open-taggy/taggy/blob/main/data/glossar-abo.json">here</a> for an example.
 
 ## 🏗️ Current status
-Please visit the [taggy demo repository](https://github.com/open-taggy/demo) 
+Please visit the [taggy demo repository]
+https://github.com/open-taggy/demo) 
 
 and follow the instructions there to get a demo page which showcases the current development status of taggy. 
 
