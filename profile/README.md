@@ -40,8 +40,7 @@ This is a list of trigger words in JSON-format with top- and sub-tags. taggy cat
 See <a href="https://github.com/open-taggy/taggy/blob/main/data/glossar-abo.json">here</a> for an example.
 
 ## 🏗️ Current status
-Please visit the [taggy demo repository]
-https://github.com/open-taggy/demo) 
+Please visit the [taggy demo repository](https://github.com/open-taggy/demo) 
 
 and follow the instructions there to get a demo page which showcases the current development status of taggy. 
 
