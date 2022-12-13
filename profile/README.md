@@ -19,7 +19,7 @@ Proprietary systems are often expensive and questionable in terms of data protec
 
 - Just define some trigger words or put in your existing [glossar](#the-glossar) and start to tag your content. 
 
-## 💥 Demo
+## 👁️ Demo
 
 - **[try it out here](https://open-taggy.github.io/demo/)**
 
