@@ -17,7 +17,7 @@ Proprietary systems are often expensive and questionable in terms of data protec
 ## 🎯 taggy gives you
 - An open, easy-to-start-with, easy-to-integrate and quite powerful frontend module to fit your tagging needs.
 
-- Just define some trigger words or put in your existing [glossar](#the-glossar) and start to tag your content. 
+- Just define some trigger words or put in your existing [glossary](#the-glossary) and start to tag your content. 
 
 ## 👁️ Demo
 
@@ -35,9 +35,9 @@ Categorize input while typing:
 
 ## 📘 Documentation
 
-### The Glossar
+### The Glossary
 This is a list of trigger words in JSON-format with top- and sub-tags. taggy categorizes the input based on that.
-See <a href="https://github.com/open-taggy/taggy/blob/main/data/glossar-abo.json">here</a> for an example.
+See <a href="https://github.com/open-taggy/taggy/blob/main/data/glossary-abo.json">here</a> for an example.
 
 ## 🏗️ Current status
 Please visit the [taggy demo repository](https://github.com/open-taggy/demo) 
