@@ -24,6 +24,7 @@ Proprietary systems are often expensive and questionable in terms of data protec
 - **[try it out here](https://open-taggy.github.io/demo/)**
 
 ## 💡 Examples
+
 ### Website Forms
 Assign form input by your users automatically to the right internal tracks:
 
@@ -32,6 +33,11 @@ Assign form input by your users automatically to the right internal tracks:
 Categorize input while typing:
 
 <img src="/screencasts/screencast-fan_en_live.gif" width="600" />
+
+### News Articles
+Tag them automatically:
+
+<img src="/screencasts/screencast-media_en_media.gif" width="600" /> 
 
 ## 📘 Documentation
 
