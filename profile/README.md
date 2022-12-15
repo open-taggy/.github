@@ -4,7 +4,7 @@
   <img width="240" alt="mtl-taggy" src="https://github.com/open-taggy/website/blob/main/static/img/logo.png">
 </p>
 <p align="center">
-taggy is a frontend package to automatically tag (or categorize) textual input on your website.
+taggy is a frontend package to automatically tag (or categorize) textual content.
 </p>
 
 ## 🧩 The problem
@@ -17,24 +17,27 @@ Proprietary systems are often expensive and questionable in terms of data protec
 ## 🎯 taggy gives you
 - An open, easy-to-start-with, easy-to-integrate and quite powerful frontend module to fit your tagging needs.
 
-- Just define some trigger words or put in your existing [glossar](#the-glossar) and start to tag your content. 
+- Just define some trigger words or put in your existing [glossary](#the-glossary) and start to tag your content. 
+
+## 👁️ Demo
+
+- **[try it out here](https://open-taggy.github.io/demo/)**
 
 ## 💡 Examples
-### 1. Website Forms
+### Website Forms
 Assign form input by your users automatically to the right internal tracks:
 
-<img src="https://open-taggy.github.io/website/img/taggy_screencast_v2_abo.gif" width="600" />
+<img src="/screencasts/screencast-shop_en_submit.gif" width="600" />
 
-### 2. Tags for Blogposts
-Let taggy categorize your blogposts:
+Categorize input while typing:
 
-<img src="https://open-taggy.github.io/website/img/taggy_screencast_v2_blog.gif" width="600" />
+<img src="/screencasts/screencast-fan_en_live.gif" width="600" />
 
 ## 📘 Documentation
 
-### The Glossar
-This is a list of trigger words in JSON-fomrat with top- and sub-tags. taggy categorizes the input based on that.
-See <a href="https://github.com/open-taggy/taggy/blob/main/data/glossar-abo.json">here</a> for an example.
+### The Glossary
+This is a list of trigger words in JSON-format with top- and sub-tags. taggy categorizes the input based on that.
+See <a href="https://github.com/open-taggy/taggy/blob/main/data/glossary-abo.json">here</a> for an example.
 
 ## 🏗️ Current status
 Please visit the [taggy demo repository](https://github.com/open-taggy/demo) 
