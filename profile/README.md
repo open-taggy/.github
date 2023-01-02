@@ -41,14 +41,32 @@ Tag them automatically:
 
 ## 📘 Documentation
 
+### Getting started
+Please visit the [main repo of taggy](https://github.com/open-taggy/taggy) to get going quickly.
+
 ### The Glossary
 This is a list of trigger words in JSON-format with top- and sub-tags. taggy categorizes the input based on that.
-See <a href="https://github.com/open-taggy/taggy/blob/main/data/glossary-abo.json">here</a> for an example.
+The structure is like this:
 
-## 🏗️ Current status
-Please visit the [taggy demo repository](https://github.com/open-taggy/demo) 
+```json
+{
+  "tags": [
+    {
+      "name": "First Category",
+      "words": ["tag1", "tag2", "another-tag", "and-another-tag"]
+    },
+    {
+      "name": "Second Category",
+      "words": ["First one for #2", "Second one for #2"]
+    },
+    {
+      "name": "A Third Category",
+      "words": ["sub3-1", "sub3-2"]
+    }
+  ]
+}
 
-and follow the instructions there to get a demo page which showcases the current development status of taggy. 
+```
 
 
 ## ⚡ Powered by
