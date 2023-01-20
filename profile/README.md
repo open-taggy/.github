@@ -52,16 +52,16 @@ The structure is like this:
 {
   "tags": [
     {
-      "name": "Herbs and Spices",
-      "words": [ "Rosemary", "Parsley", "Pepper", "Thyme", "Mint", "Chilli", "Basil", "Dill" ]
+      "category": "Herbs and Spices",
+      "keywords": [ "Rosemary", "Parsley", "Pepper", "Thyme", "Mint", "Chilli", "Basil", "Dill" ]
     },
     {
-      "name": "Vegetables",
-      "words": [ "Potatoes", "Cucumber", "Garlic", "Carrots", "Spinach", "Onion", "Mushrooms" ]
+      "category": "Vegetables",
+      "keywords": [ "Potatoes", "Cucumber", "Garlic", "Carrots", "Spinach", "Onion", "Mushrooms" ]
     },
     {
-      "name": "Fish",
-      "words": [ "Salmon", "Tuna", "Red Snapper", "Sardines", "Herring", "Flounder", "Bass", "Mackerel" ]
+      "category": "Fish",
+      "keywords": [ "Salmon", "Tuna", "Red Snapper", "Sardines", "Herring", "Flounder", "Bass", "Mackerel" ]
     }
   ]
 }
