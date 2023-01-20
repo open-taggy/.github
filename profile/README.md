@@ -45,7 +45,7 @@ Tag them automatically:
 Please visit the [main repo of taggy](https://github.com/open-taggy/taggy) to get going quickly.
 
 ### The Glossary
-This is a list of trigger words in JSON-format with top- and sub-tags. taggy categorizes the input based on that.
+This is a list of words in JSON-format with categories and keywords. taggy categorizes the input based on that.
 The structure is like this:
 
 ```json
