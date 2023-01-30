@@ -45,23 +45,23 @@ Tag them automatically:
 Please visit the [main repo of taggy](https://github.com/open-taggy/taggy) to get going quickly.
 
 ### The Glossary
-This is a list of trigger words in JSON-format with top- and sub-tags. taggy categorizes the input based on that.
+This is a list of words in JSON-format with categories and keywords. taggy categorizes the input based on that.
 The structure is like this:
 
 ```json
 {
   "tags": [
     {
-      "name": "First Category",
-      "words": ["tag1", "tag2", "another-tag", "and-another-tag"]
+      "category": "Herbs and Spices",
+      "keywords": [ "Rosemary", "Parsley", "Pepper", "Thyme", "Mint", "Chilli", "Basil", "Dill" ]
     },
     {
-      "name": "Second Category",
-      "words": ["First one for #2", "Second one for #2"]
+      "category": "Vegetables",
+      "keywords": [ "Potatoes", "Cucumber", "Garlic", "Carrots", "Spinach", "Onion", "Mushrooms" ]
     },
     {
-      "name": "A Third Category",
-      "words": ["sub3-1", "sub3-2"]
+      "category": "Fish",
+      "keywords": [ "Salmon", "Tuna", "Red Snapper", "Sardines", "Herring", "Flounder", "Bass", "Mackerel" ]
     }
   ]
 }
